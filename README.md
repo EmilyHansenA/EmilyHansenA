@@ -20,10 +20,13 @@
     <img src="https://komarev.com/ghpvc/?username=emilyhansena&style=flat-square&color=blue" alt=""/>
 </div>
 
-## About Me
+### :bread: About Me :
 
-—  I'm a begginer Software Engineer and Game Developer.
-— 
+- :desktop_computer:I'm a begginer Software Engineer and Game Developer.
+- :books:21 year old and 2 second-year student of Software Engineer.
+- :video_game:Love playing video games. Learning to create my own.
+- :volleyball: I like to play volleyball.
+- :rainbow:Nice too meet you~
 
 ## Language and Tools
 
