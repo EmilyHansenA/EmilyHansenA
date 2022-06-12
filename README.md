@@ -1,7 +1,7 @@
 ![Header](https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Preview.png)
 
 <div id="header" align="center">
-  <img src="https://gfycat.com/delectablefirsthandduiker" width="100"/>
+  <img src="https://thumbs.gfycat.com/DelectableFirsthandDuiker-mobile.mp4" width="100"/>
 </div>
 
 ## About Me
