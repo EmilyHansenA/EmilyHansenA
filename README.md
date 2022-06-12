@@ -16,7 +16,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=emilyhansena&style=flat-square&color=blue" alt=""/>
+<div id = "counter" align="center">
+    <img src="https://komarev.com/ghpvc/?username=emilyhansena&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## About Me
 
