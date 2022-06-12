@@ -4,17 +4,22 @@
   <img src="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/d2dd8122eac32df3ad87b436b90c3dd5.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://vk.com/id79890875">
+    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
+  </a>
+  <a href="https://youtube.com/playlist?list=PLHlE5HA4L6l1KzkDrNnS-ErOyGzNYDdJj">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/EmilyHansen">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 ## About Me
 
 —  I'm a begginer Software Engineer and Game Developer.
 — 
-
-
-## Follow Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-31a8df?style=for-the-badge&logo=Telegram)](https://t.me/EmilyHansen)
-[![Vk](https://img.shields.io/badge/Vkontakte-31a8df?style=for-the-badge&logo=Vk)](https://vk.com/id79890875)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube)](https://youtube.com/playlist?list=PLHlE5HA4L6l1KzkDrNnS-ErOyGzNYDdJj)
 
 ## Language and Tools
 
