@@ -3,7 +3,7 @@
 ## About Me
 
 —  I'm a begginer Software Engineer and Game Developer.
-
+— 
 
 
 ## Follow Me
@@ -14,7 +14,7 @@
 
 ## Language and Tools
 
-<div>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="100" height="100"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="100" height="100"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" **alt="DotNet" width="100" height="100"/>
