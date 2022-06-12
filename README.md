@@ -1,6 +1,9 @@
 ![Header](https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Preview.png)
 
-## I'm a begginer Software Engineer and Game Developer
+## About Me
+
+—  I'm a begginer Software Engineer and Game Developer.
+
 
 
 ## Follow Me
@@ -20,3 +23,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css" **alt="Css" width="100" height="100"/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyHansen&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
