@@ -1,6 +1,13 @@
-[![Header](https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Preview.png)](https://youtube.com/playlist?list=PLHlE5HA4L6l1KzkDrNnS-ErOyGzNYDdJj)
+![Header](https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Preview.png)
 
 ## I'm a begginer Software Engineer and Game Developer
+
+
+## Follow Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-31a8df?style=for-the-badge&logo=Telegram)](https://t.me/EmilyHansen)
+[![Vk](https://img.shields.io/badge/Vkontakte-31a8df?style=for-the-badge&logo=Vk)](https://vk.com/id79890875)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube)](https://youtube.com/playlist?list=PLHlE5HA4L6l1KzkDrNnS-ErOyGzNYDdJj)
 
 ## Language and Tools
 
@@ -13,4 +20,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css" **alt="Css" width="100" height="100"/>
 </div>
 
-Follow Me
