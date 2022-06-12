@@ -24,7 +24,7 @@
 
 - :desktop_computer:    I'm a begginer Software Engineer and Game Developer.
 - :books:   21 year old and 2 second-year student of Software Engineer.
-- :video_game:  Love playing video games. Learning to create my own.
+- :video_game:  Love playing video games. Learning to create my own. (Take a look at my YouTube)
 - :volleyball:  I like to play volleyball.
 - :fire:    I'm a member of the RSO.
 - :rainbow:    Nice too meet you~
