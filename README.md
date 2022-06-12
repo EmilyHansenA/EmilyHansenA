@@ -1,5 +1,9 @@
 ![Header](https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Preview.png)
 
+<div id="header" align="center">
+  <img src="https://gfycat.com/delectablefirsthandduiker" width="100"/>
+</div>
+
 ## About Me
 
 —  I'm a begginer Software Engineer and Game Developer.
@@ -14,7 +18,7 @@
 
 ## Language and Tools
 
-<div align="right">
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="100" height="100"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="100" height="100"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" **alt="DotNet" width="100" height="100"/>
