@@ -23,4 +23,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css" **alt="Css" width="100" height="100"/>
 </div>
 
+## My Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyHansen&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
