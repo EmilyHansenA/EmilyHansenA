@@ -16,6 +16,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=emilyhansena&style=flat-square&color=blue" alt=""/>
+
 ## About Me
 
 —  I'm a begginer Software Engineer and Game Developer.
