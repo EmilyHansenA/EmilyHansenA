@@ -4,7 +4,7 @@
   <img src="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/d2dd8122eac32df3ad87b436b90c3dd5.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/id79890875">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
   </a>
