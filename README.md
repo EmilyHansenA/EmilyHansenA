@@ -36,8 +36,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="75" height="75"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" **alt="DotNet" width="75" height="75"/>
 <img src="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Unity.png" title="Unity" **alt="Unity" width="75" height="75"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" **alt="Html5" width="75" height="75"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css" **alt="Css" width="75" height="75"/>
 </div>
 
 ## My Stats
