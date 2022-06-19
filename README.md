@@ -27,6 +27,7 @@
 - :video_game:  Love playing video games. Learning to create my own. (Take a look at my YouTube)
 - :volleyball:  I like to play volleyball.
 - :fire:    I'm a member of the RSO.
+- And I'm looking for a job
 - :rainbow:    Nice too meet you~
 
 ## Language and Tools
