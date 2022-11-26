@@ -26,7 +26,7 @@
 ### :bread: About Me :
 
 - :desktop_computer:    I'm a begginer Software Engineer and Game Developer.
-- :books:   21 year old and 2 second-year student of Software Engineer in Kalashnikov Izhevsk State Technical University.
+- :books:   22 year old and 2 second-year student of Software Engineer in Kalashnikov Izhevsk State Technical University.
 - :video_game:  Love playing video games. Learning to create my own. (Take a look at my YouTube)
 - :volleyball:  I like to play volleyball.
 - :fire:    I'm a member of the RSO.
