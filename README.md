@@ -26,6 +26,7 @@
 ### :bread: About Me :
 
 - :desktop_computer:    I'm a begginer Web-developer and Game Developer.
+- ✅ I graduated from a web developer course. <a href="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Diplom.pdf"> My diploma </a>
 - :books:   22 year old and 2 second-year student of Software Engineer in Kalashnikov Izhevsk State Technical University.
 - :video_game:  Love playing video games. Learning to create my own. (Take a look at my YouTube)
 - :volleyball:  I like to play volleyball.
