@@ -38,7 +38,7 @@
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="75" height="75"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="75" height="75"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="75" height="75"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" **alt="DotNet" width="75" height="75"/>
 <img src="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Unity.png" title="Unity" **alt="Unity" width="75" height="75"/>
 </div>
