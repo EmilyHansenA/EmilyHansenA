@@ -27,11 +27,11 @@
 
 - :desktop_computer:    I'm a begginer Web-developer and Game Developer.
 - ✅ I graduated from a web developer course. <a href="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Diplom.pdf"> My diploma </a>
-- :books:   23 year old.
+- :books:   24 year old.
 - :video_game:  Love playing video games. Learning to create my own. (Take a look at my YouTube)
 - :volleyball:  I like to play volleyball.
 - :fire:    I'm a member of the RSO.
-- And I'm looking for a job
+- And I'm looking for a job or project .-.
 - :rainbow:    Nice too meet you~
 
 ## Language and Tools
