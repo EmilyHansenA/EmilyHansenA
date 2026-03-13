@@ -42,6 +42,9 @@
 <img src="https://github.com/EmilyHansenA/EmilyHansenA/blob/main/Assets/Unity.png" title="Unity" **alt="Unity" width="75" height="75"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" **alt="Postman" width="75" height="75"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="75" height="75"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain-wordmark.svg" title="Grafana" **alt="Grafana" width="75" height="75"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="75" height="75"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="75" height="75"/>
 </div>
 
 ## My Stats
