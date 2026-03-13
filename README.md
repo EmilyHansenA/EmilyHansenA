@@ -46,6 +46,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="75" height="75"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="75" height="75"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original-wordmark.svg" title="Kibana" **alt="Kibana" width="75" height="75"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="75" height="75"/>
 </div>
 
 ## My Stats
